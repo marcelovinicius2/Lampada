@@ -1,0 +1,1 @@
+projeto para ligar e desligar uma lampada em JavaScript
